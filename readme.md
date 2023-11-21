@@ -48,13 +48,14 @@ fields_of_interests:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/>
 <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="java" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png" alt="androidstudio" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="kotlin" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/444px-Apache_NetBeans_Logo.svg.png" alt="netbeans" width="38" height="45"/>
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png" alt="androidstudio" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="kotlin" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/444px-Apache_NetBeans_Logo.svg.png" alt="netbeans" width="38" height="45"/>
 </p>
-
 ---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuhanordin&show_icons=true&locale=en&layout=compact" alt="mostlangs" /></p>
+
 <!--
 **nuhanordin/nuhanordin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
